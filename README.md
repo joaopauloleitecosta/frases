@@ -22,5 +22,5 @@ O app possui apenas 1 tela:
 ---
 
 ## Screenshot
-![App Screenshot](https://github.com/joaopauloleitecosta/frases/blob/main/tela_inicial.png)
-![App Screenshot](https://github.com/joaopauloleitecosta/frases/blob/main/tela_frase.png)
+![App Screenshot](https://github.com/joaopauloleitecosta/frases/blob/main/inicial.jpg)
+![App Screenshot](https://github.com/joaopauloleitecosta/frases/blob/main/frase.jpg)
