@@ -22,5 +22,7 @@ O app possui apenas 1 tela:
 ---
 
 ## Screenshot
-![App Screenshot](https://github.com/joaopauloleitecosta/frases/blob/main/inicial.jpg)
-![App Screenshot](https://github.com/joaopauloleitecosta/frases/blob/main/frase.jpg)
+<p align="center">
+  <img src="https://github.com/joaopauloleitecosta/frases/blob/main/inicial.jpg" width="300" alt="Tela inicial">
+  <img src="https://github.com/joaopauloleitecosta/frases/blob/main/frase.jpg" width="300" alt="Tela com clique">
+</p>
